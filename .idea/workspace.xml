@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b709a06-a796-4ce5-a4da-4bb57bd707e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dynamic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manacher Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dynamic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dynamic.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +65,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Dynamic">
+    <configuration name="Dynamic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dynamic" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="manachers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="manachers" />
       <module name="Algorithm" />
@@ -77,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dynamic" />
         <item itemvalue="Application.manachers" />
       </list>
     </recent_temporary>
@@ -92,7 +98,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587627964415</updated>
       <workItem from="1587627969655" duration="4621000" />
-      <workItem from="1588072186523" duration="1908000" />
+      <workItem from="1588072186523" duration="2148000" />
+      <workItem from="1588138645613" duration="1218000" />
     </task>
     <servers />
   </component>

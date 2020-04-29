@@ -1,2 +1,2 @@
-# Manacher-s-Algorithms
+# Algorithms
 Algorithm Practice
